@@ -1,7 +1,7 @@
 TgBackUP
 ========
-# Migrated to [TelegramBots / TgBackUP GitLab](https://fleef.ru/telegrambots/TgBackUP) - There will be no updates here
-# Перешёл на [TelegramBots / TgBackUP GitLab](https://fleef.ru/telegrambots/TgBackUP) - обновлений здесь не будет
+Migrated to [TelegramBots / TgBackUP GitLab](https://fleef.ru/telegrambots/TgBackUP) - There will be no updates here
+Перешёл на [TelegramBots / TgBackUP GitLab](https://fleef.ru/telegrambots/TgBackUP) - обновлений здесь не будет
 
 
 A project for storing configuration files, passwords or text files
